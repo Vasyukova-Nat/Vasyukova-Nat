@@ -3,7 +3,7 @@
 <h3 align="center">I'm a student and a frontend and backend developer from Russia</h3>
 
 ---
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student+of+Computer+Engineering)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Student+in+Computer+Science)](https://git.io/typing-svg)
 
 🛠️ Languages and Tools:  
 
