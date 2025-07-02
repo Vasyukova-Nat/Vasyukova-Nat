@@ -40,7 +40,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vasyukova-Nat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Vasyukova-Nat)](https://git.io/streak-stats)
-
 ![](https://komarev.com/ghpvc/?username=Vasyukova-Nat)
 
